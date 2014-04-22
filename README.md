@@ -1,9 +1,4 @@
 Spring-Hibernate-Jackson-MySQL-Starter
-======================================
-
-Spring Hibernate Jackson MySQL Starter / CRUD
-
-Spring-Hibernate-Jackson-MySQL-Starter
 =============
 
 Spring Hibernate Jackson MySQL Starter / CRUD / JQuery - Ajax
