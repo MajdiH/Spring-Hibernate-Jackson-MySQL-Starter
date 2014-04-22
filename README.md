@@ -6,7 +6,7 @@ Spring Hibernate Jackson MySQL Starter / CRUD / JQuery - Ajax
 =============
 
 Just Make Clone to the project <br/>
-Create Database<br/>
+Create Database (spring-starter.sql)<br/>
 Update project details<br/>
 - Pom.xml (java version ..)<br/>
 - application.properties ( for database connection)<br/>
